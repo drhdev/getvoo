@@ -1,4 +1,4 @@
-# Daily VOO ETF Price Updater
+# getvoo - Daily VOO ETF Price Updater
 
 This Bash script retrieves the daily closing price of the VOO ETF from the Alpha Vantage API and stores the price in a SQLite database. The script is designed to be run daily using a cron job.
 
